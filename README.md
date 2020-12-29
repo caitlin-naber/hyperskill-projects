@@ -1,7 +1,4 @@
 # hyperskill-projects
-Zookeeper Python project
-Chatty Bot Python project
-Hangman project
-Tic-Tac-toe project
+Zookeeper, Chatty Bot, Hangman, Credit Calculator, Tic-Tac-toe
 
-All projects completed using Hyperskill/JetBrains
+All projects completed using Hyperskill/JetBrains Python track
